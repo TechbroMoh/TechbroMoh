@@ -6,16 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbromoh&label=Profile%20views&color=0e75b6&style=flat" alt="techbromoh" /> </p>
 
-- 🔭 I’m currently working on [Barnmonitor](barnmonitor.vercel.app)
+- 🔭 I’m currently working on [Barnmonitor](barnmonitor.vercel.app) 
 
-- 💬 Ask me about **Fullstack Dev, react, Javascript, python, flask, mongodb, Node.js, Next.js**
+- 💬 My technical skill set includes **Fullstack Dev, react, Javascript, python, flask, mongodb, Node.js, Next.js, Django, PHP, Laravel, HTML5, CSS, Rails, Wordpress**
+- 💡 My field of Interest's are building new Web Systems and Applications and also in areas related to Blockchain, Real Estate, Artificial Intelligence, Cyber Security and other emerging technologies.
+  
+- 💻 Tech Expertise
+  -Project Management
+  -Web Development
+  -Programming & Database Management
+  -Networking & Security in the Cloud
+  -Artificial Intelligence & Machine Learning
+  -Neural Networks
+  -Object-Oriented Programming
+  -Algorithms & Data Structures
+  -Cloud Platforms
+  -Software & Web Development
 
-- 📫 How to reach me **felixmonari400@gmail.com**
+- 📫 FIND ME ON **felixmonari400@gmail.com and +254794304246**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moh__feloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moh__feloh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felixmonari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixmonari" height="30" width="40" /></a>
+<a href="https://x.com/moh_feloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moh__feloh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felixmonari5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixmonari" height="30" width="40" /></a>
 <a href="https://instagram.com/feloh__moh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feloh__moh" height="30" width="40" /></a>
 </p>
 
