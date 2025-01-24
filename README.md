@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbromoh&label=Profile%20views&color=0e75b6&style=flat" alt="techbromoh" /> </p>
 
-- 🔭 I’m currently working on [Barnmonitor](barnmonitor.vercel.app) 
+- 🔭 I’m currently working on [Barnmonitor](barnmonitor.vercel.app) application and learning;
+                                                                                 Advanced backend development
+                                                                                 -Cloud computing with AWS
+
 
 - 💬 My technical skill set includes **Fullstack Dev, react, Javascript, python, flask, mongodb, Node.js, Next.js, Django, PHP, Laravel, HTML5, CSS, Rails, Wordpress**
 - 💡 My field of Interest's are building new Web Systems and Applications and also in areas related to Blockchain, Real Estate, Artificial Intelligence, Cyber Security and other emerging technologies.
@@ -22,6 +25,21 @@
   -Algorithms & Data Structures
   -Cloud Platforms
   -Software & Web Development
+  
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=binaryNova&theme=radical)
+
+---
+### 🏅 Prestigious Achievements  
+🔥 **Best in Hackathons** - Recognized in competitive coding challenges  
+💡 **Top Open-Source Contributor** - Actively contributes to impactful repositories  
+🏆 **Elite Problem Solver** - Ranked in coding platforms like LeetCode & CodeWars  
+🚀 **Outstanding Innovator** - Developed solutions recognized in tech communities  
+🔬 **Tech Speaker & Mentor** - Shares knowledge through workshops & mentorship  
+
+---
+
 
 - 📫 FIND ME ON **felixmonari400@gmail.com and +254794304246**
 
