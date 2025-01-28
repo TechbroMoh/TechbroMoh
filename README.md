@@ -55,9 +55,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techbromoh&show_icons=true&locale=en&layout=compact" alt="techbromoh" /></p>
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=binaryNova&theme=dark&hide_border=true)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techbromoh&show_icons=true&locale=en" alt="techbromoh" /></p>
 
 
