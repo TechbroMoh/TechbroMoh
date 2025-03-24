@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbromoh&label=Profile%20views&color=0e75b6&style=flat" alt="techbromoh" /> </p>
 
-- 🔭 I’m currently working on [Barnmonitor](stratacode.vercel.app) application and learning;
-                                                                                 Advanced backend development
+- 🔭 I’m currently working on [StrataCode](stratacode.vercel.app) application and learning;
+                                                                                 -Advanced backend development
                                                                                  -Cloud computing with AWS
 
 
@@ -16,7 +16,7 @@
   
 - 💻 Tech Expertise
   -Project Management
-  -Web Development
+  -Software & Web Development
   -Programming & Database Management
   -Networking & Security in the Cloud
   -Artificial Intelligence & Machine Learning
@@ -24,7 +24,7 @@
   -Object-Oriented Programming
   -Algorithms & Data Structures
   -Cloud Platforms
-  -Software & Web Development
+ 
   
 
 ### 🏆 GitHub Trophies
