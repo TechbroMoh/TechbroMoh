@@ -11,12 +11,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbromoh&label=Profile%20views&color=0e75b6&style=flat" alt="techbromoh" /> </p>
+🔭 I’m a passionate Engineer driven to turn ideas into secure, scalable, and high-performing digital solutions. My journey began in full-stack development, but I’ve grown        to love the backbone of it all: networks, systems, and the infrastructure that keeps the world connected.
 
-- 🔭 I’m a passionate Engineer driven to turn ideas into secure, scalable, and high-performing digital solutions. My journey began in full-stack development, but I’ve grown        to love the backbone of it all: networks, systems, and the infrastructure that keeps the world connected.
 
-
-- 💬 From building modern web apps to configuring networks, automating systems, and integrating APIs. I enjoy working across the entire tech stack especially drawn to the         challenges of network architecture, cloud security, and real-time systems.
-- 💡 Key Interests
+💬 From building modern web apps to configuring networks, automating systems, and integrating APIs. I enjoy working across the entire tech stack especially drawn to the         challenges of network architecture, cloud security, and real-time systems.
+💡 Key Interests
 
               • Network Engineering & Security
               • Full-Stack Development 
@@ -25,8 +24,9 @@
               • Real-World Problem Solving
 
   
-- 💻 Tech keeps evolving, and so do I. Whether working in a team or independently. I’m always exploring, learning, and innovating.
-      Let’s connect and build something exceptional!
+💻 Tech keeps evolving, and so do I. Whether working in a team or independently. I’m always exploring, learning, and innovating.
+
+-   Let’s connect and build something exceptional!
   
 
 <h2 align="center">📡 Network & Infrastructure Engineering Stack</h2>
