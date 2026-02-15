@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)](monari.vercel.app)
-<h1 align="center">Hi 👋, I'm Felix Monari</h1>
+<h1 align="center">I'm Felix Monari</h1>
 <h3 align="center">A passionate Engineer</h3>
 
 <img 
@@ -15,6 +15,7 @@
 
 
 💬 From building modern web apps to configuring networks, automating systems, and integrating APIs. I enjoy working across the entire tech stack especially drawn to the         challenges of network architecture, cloud security, and real-time systems.
+
 💡 Key Interests
 
               • Network Engineering & Security
